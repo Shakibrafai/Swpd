@@ -1,0 +1,124 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>School Timetable</title>
+    <style>
+        table {
+   border-collapse: collapse;
+   width: 100%;
+ }
+ th, td {
+   text-align: center;
+   padding: 8px;
+   border: 1px solid #ddd;
+ }
+    </style>
+  
+</head>
+<body>
+ <table border="2px">
+    <tr>
+        <th colspan="8">GOVERNMENT POLYTECHNIC JUNAGADH</th>
+    </tr>
+    <tr>
+      <th colspan="2">CP SEM2</th>
+      <th colspan="3"> CLASS TIME TABLE</th>
+      <th colspan="3">ROOM NO.D23</th>
+       
+    </tr>
+    <tr>
+        <td>SR NO.</td>
+        <td>TIME</td>
+        <td>MON</td>
+        <td>TUES</td>
+        <td>WED</td>
+        <td>THUS</td>
+        <td>FRI</td>
+        <td>SAT</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>10:30</td>
+        <td>MATHS(SMP)</td>
+        <td>PHY(VKP)</td>
+        <td>MATHS(YDP)</td>
+        <td>ECWP E22 ECWP E22 ECWP E22</td>
+        <td>BOOP(VF)</td>
+        <td>--</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>11:30</td>
+        <td>IC(KHJ)</td>
+        <td>MATHS(YDP)</td>
+        <td>BDE(DVS)</td>
+        <td>CP1(IHB) CP2(VJD) CP3(SKS)</td>
+        <td>BOOP(VF)</td>
+        <td>--</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>12:30</td>
+        <td>PHY (VKP)</td>
+        <td>BDE(KKM)</td>
+        <td>PHY(VKP)</td>
+        <td>BDE(SKS)</td>
+        <td>BOOP(VF)</td>
+        <td>--</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>1:30</td>
+        <th colspan="6" >RECESS</th>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>2;00</td>
+        <td> BOOP E04</td>
+        <td> BDE    PHY F06    BDE </td>
+        <td> BDE E16   SWPDE04 </td>
+        <td>SWPD E04</td>
+        <td>PHY</td>
+        <td>--</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>3;00</td>
+        <td>CP1(AMG) CP2(DVS) CP3(IHB)</td>
+        <td>CP1(KKM) CP2(YDP) CP3(DVS)</td>
+        <td>CP2(DVS) CP3(IHB)</td>
+        <td>CP1(AMG) CP2(RDV) CP3(SMP)</td>
+        <td>CP1(TKJ)</td>
+        <td>--</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>4:00</td>
+        <th colspan="6">RECESS</th>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>4:10</td>
+        <td>BOOP E04</td><td>MATHS TCPA F05(YDP)</td>
+        
+        <td>SWPD E04</td>
+        <td>SWPD E04</td>
+        <td></td>
+        <td>--</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>5:10</td>
+        <td>CP1(AMG)  CP2(DVS)  CP3(IHB)</td>
+        <td>IC(KHJ)</td>
+        <td>CP3(RDV) </td>
+        <td>CP1(IHB) CP2(RDV)</td>
+        <td></td>
+        <td>--</td>
+    </tr>
+ </table>
+   </body>
+   </html>
