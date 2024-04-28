@@ -1,0 +1,16 @@
+body{
+    background-color:linen;
+      font-style: unset;
+ }
+
+ h1{
+    color: maroon;
+    margin-left: 70px;
+    
+ }
+ label{
+     color: darkred;
+ }
+ button{
+    color: blue;
+ }
